@@ -7,11 +7,11 @@ date_format: "ordinal"
 title: 小章鱼的博客
 subtitle: "小章鱼的博客"
 description: ""
-keywords: 小章鱼, 注水章鱼
+keywords: 小章鱼, 注水章鱼, 旧石塔
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 1888
 # 源码仓库，请替换成自己的
 repository: wzwtt/blog
 # 对 css 和 js 资源的 cdn 加速配置
