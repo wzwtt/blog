@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://wzwtt.cf/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://wzwtt.cf/blog/" rel="alternate" type="text/html" /><updated>2022-08-14T12:20:27+08:00</updated><id>https://wzwtt.cf/blog/feed.xml</id><title type="html">小章鱼的博客</title><subtitle></subtitle><author><name>Smart Octopus</name></author><entry><title type="html">test</title><link href="https://wzwtt.cf/blog/2022/08/14/test/" rel="alternate" type="text/html" title="test" /><published>2022-08-14T00:00:00+08:00</published><updated>2022-08-14T00:00:00+08:00</updated><id>https://wzwtt.cf/blog/2022/08/14/test</id><content type="html" xml:base="https://wzwtt.cf/blog/2022/08/14/test/">&lt;h1 id=&quot;这是测试内容&quot;&gt;这是测试内容&lt;/h1&gt;
+&lt;h2 id=&quot;123456789&quot;&gt;123456789&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;a&lt;/li&gt;
+  &lt;li&gt;b&lt;/li&gt;
+  &lt;li&gt;c&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Smart Octopus</name></author><category term="test" /><summary type="html">这是测试内容 123456789 a b c</summary></entry></feed>
