@@ -105,7 +105,7 @@
                 {% for nav in site.navs %}
                 <a href="{{ site.url }}{{ nav.href }}" class="{% if page.menu == nav.label %} selected {% endif %} site-header-nav-item" target="{{ nav.target | default: _self }}" title="{{ nav.label }}">{{ nav.label }}</a>
                 {% endfor %}
-                <a href="https://wzwtt.cf/" target="_blank" title="百宝箱">百宝箱</a>
+                <a href="https://wzwtt.cf/" class="site-header-nav-item" target="_blank" title="百宝箱">百宝箱</a>
             </nav>
         </div> 
     </header>
