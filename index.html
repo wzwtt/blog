@@ -17,10 +17,12 @@ comments: false
             <div class="collection-title">
               <h1 class="collection-header" id="sub-title"><span>{{ site.subtitle }}</span></h1>
               <div class="collection-info">
+                {% if site.location %}
                 <span class="meta-info mobile-hidden">
                   <span class="octicon octicon-location"></span>
                   {{ site.location }}
                 </span>
+                {% endif %}
                 {% if site.organization %}
                 <span class="meta-info">
                   <span class="octicon octicon-organization"></span>
