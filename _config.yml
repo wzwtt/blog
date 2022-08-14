@@ -74,8 +74,12 @@ navs:
     label: 分类
 
   -
-     href: /archives/
-     label: 归档
+    href: /archives/
+    label: 归档
+     
+  -
+    href: https://wzwtt.cf/
+    label: 百宝箱
 
 #   -
 #     href: /open-source/
@@ -85,9 +89,9 @@ navs:
 #    href: /wiki/
 #    label: 维基
 
-  -
-    href: /links/
-    label: 链接
+# -
+#   href: /links/
+#   label: 链接
 
 # -
 #    href: /about/
