@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://wzwtt.cf/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://wzwtt.cf/blog/" rel="alternate" type="text/html" /><updated>2022-08-30T14:26:28+08:00</updated><id>https://wzwtt.cf/blog/feed.xml</id><title type="html">小章鱼的博客</title><subtitle></subtitle><author><name>Smart Octopus</name></author><entry><title type="html">猫和老鼠手游备忘</title><link href="https://wzwtt.cf/blog/2022/08/23/Tom-and-Jerry-notes/" rel="alternate" type="text/html" title="猫和老鼠手游备忘" /><published>2022-08-23T00:00:00+08:00</published><updated>2022-08-23T00:00:00+08:00</updated><id>https://wzwtt.cf/blog/2022/08/23/Tom-and-Jerry-notes</id><content type="html" xml:base="https://wzwtt.cf/blog/2022/08/23/Tom-and-Jerry-notes/">&lt;p&gt;本文记录了猫和老鼠手游中所有老鼠角色技能。以下内容均摘录自游戏中相关页面。若需增加或发现错误、更新，请到评论区留言或到 &lt;a href=&quot;https://github.com/wzwtt/blog/tree/master/_posts/2022-08-23-Tom-and-Jerry-notes.md&quot;&gt;GitHub&lt;/a&gt; 提 Pull requests 。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://wzwtt.cf/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://wzwtt.cf/blog/" rel="alternate" type="text/html" /><updated>2022-08-30T14:36:17+08:00</updated><id>https://wzwtt.cf/blog/feed.xml</id><title type="html">小章鱼的博客</title><subtitle></subtitle><author><name>Smart Octopus</name></author><entry><title type="html">猫和老鼠手游备忘</title><link href="https://wzwtt.cf/blog/2022/08/23/Tom-and-Jerry-notes/" rel="alternate" type="text/html" title="猫和老鼠手游备忘" /><published>2022-08-23T00:00:00+08:00</published><updated>2022-08-23T00:00:00+08:00</updated><id>https://wzwtt.cf/blog/2022/08/23/Tom-and-Jerry-notes</id><content type="html" xml:base="https://wzwtt.cf/blog/2022/08/23/Tom-and-Jerry-notes/">&lt;p&gt;本文记录了猫和老鼠手游中所有老鼠角色技能。以下内容均摘录自游戏中相关页面。若需增加或发现错误、更新，请到评论区留言或到 &lt;a href=&quot;https://github.com/wzwtt/blog/tree/master/_posts/2022-08-23-Tom-and-Jerry-notes.md&quot;&gt;GitHub&lt;/a&gt; 提 Pull requests 。&lt;/p&gt;
 
 &lt;h1 id=&quot;角色&quot;&gt;角色&lt;/h1&gt;
 
@@ -144,7 +144,7 @@
 
 &lt;p&gt;&lt;strong&gt;国王战旗&lt;/strong&gt; 第二武器 15/8/8&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;国王可召唤不同的战旗，为碰触的友方提供不同的增益，但战旗和增益效果的持续时间较短，当战旗碰触过2次后，战旗将获得强化提供强化版增益，同一时间游戏内只能存在1种战旗，获得战旗效果后的一段时间内无法再次获得同等级的效果。&lt;/li&gt;
+  &lt;li&gt;国王可召唤不同的战旗，为碰触的友方提供不同的增益，但战旗和增益效果的持续时间较短，当战旗碰触过 2 次后，战旗将获得强化提供强化版增益，同一时间游戏内只能存在 1 种战旗，获得战旗效果后的一段时间内无法再次获得同等级的效果。&lt;/li&gt;
   &lt;li&gt;减少技能的冷却时间，减少 1 次强化触碰次数。&lt;/li&gt;
   &lt;li&gt;战旗被召唤时直接升级为强化状态。
     &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; 攻击战旗：大幅提高对敌方攻击力。
@@ -223,8 +223,8 @@
 &lt;p&gt;&lt;strong&gt;勇气冲刺&lt;/strong&gt; 主动技能 1.5/1.5/1.5&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;剑客泰菲鼓起勇气向前猛烈一刺并恢复少量勇气，冲刺击中猫后对猫咪造成伤害，但会消耗一定的勇气。&lt;/li&gt;
-  &lt;li&gt;勇气冲刺在短时间内击中猫味5次后，能使猫味眩晕并受到额外的伤害。&lt;/li&gt;
-  &lt;li&gt;勇气冲刺在短时间内击中猫味3次后，能使猫味眩晕并受到额外的伤害。&lt;/li&gt;
+  &lt;li&gt;勇气冲刺在短时间内击中猫味 5 次后，能使猫味眩晕并受到额外的伤害。&lt;/li&gt;
+  &lt;li&gt;勇气冲刺在短时间内击中猫味 3 次后，能使猫味眩晕并受到额外的伤害。&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;勇者不惧&lt;/strong&gt; 被动技能 0/0/0&lt;/p&gt;
@@ -243,7 +243,7 @@
 
 &lt;p&gt;&lt;strong&gt;剑客长枪&lt;/strong&gt; 第二武器 8/8/8&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;剑客泰菲可通过蓄力投掷长枪，蓄力时间越长，投掷的速度越快，距离越长，对碰触的敌人造成敌方造成不同的伤害和控制效果。在投掷后的一定时间内，可再次点击技能使长枪将剑客泰菲拉到尾部跟随飞行，长枪碰到队友后，可携带1名友方进行飞行，期间剑客泰菲和友方均可通过跳跃、投掷离开，若飞行中碰触到易碎道具和打开的老鼠夹，也会挂着该道具飞行，长枪在碰到墙壁，地面，平台时将消失。&lt;/li&gt;
+  &lt;li&gt;剑客泰菲可通过蓄力投掷长枪，蓄力时间越长，投掷的速度越快，距离越长，对碰触的敌人造成敌方造成不同的伤害和控制效果。在投掷后的一定时间内，可再次点击技能使长枪将剑客泰菲拉到尾部跟随飞行，长枪碰到队友后，可携带 1 名友方进行飞行，期间剑客泰菲和友方均可通过跳跃、投掷离开，若飞行中碰触到易碎道具和打开的老鼠夹，也会挂着该道具飞行，长枪在碰到墙壁，地面，平台时将消失。&lt;/li&gt;
   &lt;li&gt;速度大幅提亮，在勇气释放过程中，长枪命中敌人时将使其无法使用技能，带飞友方时将解除受伤和虚弱状态。&lt;/li&gt;
   &lt;li&gt;在勇气释放过程使用剑客长枪，将减少大量冷却时间。&lt;/li&gt;
 &lt;/ul&gt;
@@ -251,8 +251,8 @@
 &lt;h3 id=&quot;牛仔杰瑞&quot;&gt;牛仔杰瑞&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;仙人掌&lt;/strong&gt; 主动技能 15/15/15&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;放置仙人掌，猫踩中仙人掌后会陷入短暂的硬直，还会因为仙人掌的尖刺扎入脚中而受到持续的减速和伤害（效果最多叠加3层)，所有老鼠不受仙人掌的影响，仙人掌持续一段时间后消失。&lt;/li&gt;
-  &lt;li&gt;最多可存储2个仙人掌。仙人掌被踩中后会分裂为3个小仙人掌，猫踩中小仙人掌也会陷入短暂的硬直，随后受到持续的减速和伤害（效果最多叠加3层）。仙人掌造成的减速和伤害效果加强，减速效果持续时间长。&lt;/li&gt;
+  &lt;li&gt;放置仙人掌，猫踩中仙人掌后会陷入短暂的硬直，还会因为仙人掌的尖刺扎入脚中而受到持续的减速和伤害（效果最多叠加 3 层)，所有老鼠不受仙人掌的影响，仙人掌持续一段时间后消失。&lt;/li&gt;
+  &lt;li&gt;最多可存储 2 个仙人掌。仙人掌被踩中后会分裂为 3 个小仙人掌，猫踩中小仙人掌也会陷入短暂的硬直，随后受到持续的减速和伤害（效果最多叠加 3 层）。仙人掌造成的减速和伤害效果加强，减速效果持续时间长。&lt;/li&gt;
   &lt;li&gt;猫踩中仙人掌后，会由于剧痛而陷入更长时间的硬直。仙人掌造成的减速和伤害效果加强，减速效果持续时间长。&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -295,9 +295,9 @@
 &lt;h3 id=&quot;恶魔泰菲&quot;&gt;恶魔泰菲&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;意念控制&lt;/strong&gt; 主动技能 9/7/5&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;恶魔泰菲能够吸引附近1个投掷道具并让其跟随在自己身边，再次使用技能可将道具投掷出去。&lt;/li&gt;
-  &lt;li&gt;恶魔泰菲能够吸引2个投掷道具，吸引道具跟随自己的时间变得更长，技能冷却时间降低。&lt;/li&gt;
-  &lt;li&gt;恶魔泰菲能够吸引3个投掷道具，技能冷却时间降低。&lt;/li&gt;
+  &lt;li&gt;恶魔泰菲能够吸引附近 1 个投掷道具并让其跟随在自己身边，再次使用技能可将道具投掷出去。&lt;/li&gt;
+  &lt;li&gt;恶魔泰菲能够吸引 2 个投掷道具，吸引道具跟随自己的时间变得更长，技能冷却时间降低。&lt;/li&gt;
+  &lt;li&gt;恶魔泰菲能够吸引 3 个投掷道具，技能冷却时间降低。&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;黑暗印记&lt;/strong&gt; 被动技能 0/0/0&lt;/p&gt;
@@ -311,7 +311,7 @@
 &lt;ul&gt;
   &lt;li&gt;恶魔泰菲使用自己头上的恶魔之角，恶魔之角发出的神秘光束能将附近的物品复制一份。&lt;/li&gt;
   &lt;li&gt;技能冷却时间降低。&lt;/li&gt;
-  &lt;li&gt;恶魔之角的光束能将附近的2个物品各复制一份。&lt;/li&gt;
+  &lt;li&gt;恶魔之角的光束能将附近的 2 个物品各复制一份。&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;侦探泰菲&quot;&gt;侦探泰菲&lt;/h3&gt;
@@ -347,8 +347,8 @@
 &lt;p&gt;&lt;strong&gt;功无不克&lt;/strong&gt; 被动技能 0/0/0&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;当自己处于满健康值状态时，获得伤害减免的能力。&lt;/li&gt;
-  &lt;li&gt;当自己使用道具命中敌方时获得短暂的无敌效果，无敌效果有45秒的冷却时间。&lt;/li&gt;
-  &lt;li&gt;当自己使用道具命中受到技能“御风剑舞”或“幻影剑气”影响的敌方时，会对敌方额外造成眩晕效果，敌方在45秒内不会重复受到此效果的影响。&lt;/li&gt;
+  &lt;li&gt;当自己使用道具命中敌方时获得短暂的无敌效果，无敌效果有 45 秒的冷却时间。&lt;/li&gt;
+  &lt;li&gt;当自己使用道具命中受到技能“御风剑舞”或“幻影剑气”影响的敌方时，会对敌方额外造成眩晕效果，敌方在 45 秒内不会重复受到此效果的影响。&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;幻影剑气&lt;/strong&gt; 武器 20/10/10&lt;/p&gt;
@@ -368,7 +368,7 @@
 
 &lt;p&gt;&lt;strong&gt;优雅从容&lt;/strong&gt; 被动技能 0/0/0&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;任何突发情况都不能打破玛丽高贵从容的仪态。不愿在人前失礼，周围一定范围存在队友时免疫一次虚弱状态（50秒内只能触发一次）。&lt;/li&gt;
+  &lt;li&gt;任何突发情况都不能打破玛丽高贵从容的仪态。不愿在人前失礼，周围一定范围存在队友时免疫一次虚弱状态（ 50 秒内只能触发一次）。&lt;/li&gt;
   &lt;li&gt;冷静从容，生命上限获得提升。&lt;/li&gt;
   &lt;li&gt;强大的气场影响周围单位，范围内友方老鼠移动速度不会低于一定数值（虚弱状态也会生效），范围内敌方猫咪会被减速。&lt;/li&gt;
 &lt;/ul&gt;
@@ -512,7 +512,7 @@
 &lt;h3 id=&quot;天使杰瑞&quot;&gt;天使杰瑞&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;天使祝福&lt;/strong&gt; 主动技能 60/60/60&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;天使杰瑞对附近一定范围内被绑上火箭的同伴进行祝福，祝福效果持续30秒，获得祝福效果的同伴被放飞后将会复活。处于复活状态的同伴将会持续暴露自己的位置，如果再次被击倒或陷入可被直接抓取的状态，则直接被淘汰。获得祝福效果的同伴被救下火箭后，将返还该技能一定的冷却时间。&lt;/li&gt;
+  &lt;li&gt;天使杰瑞对附近一定范围内被绑上火箭的同伴进行祝福，祝福效果持续 30 秒，获得祝福效果的同伴被放飞后将会复活。处于复活状态的同伴将会持续暴露自己的位置，如果再次被击倒或陷入可被直接抓取的状态，则直接被淘汰。获得祝福效果的同伴被救下火箭后，将返还该技能一定的冷却时间。&lt;/li&gt;
   &lt;li&gt;天使在祝福吟唱时将获得护盾效果，并持续恢复健康值。&lt;/li&gt;
   &lt;li&gt;祝福的生效范围提升。&lt;/li&gt;
 &lt;/ul&gt;
@@ -543,7 +543,7 @@
 &lt;ul&gt;
   &lt;li&gt;天使泰菲撑起伤害转移光盾，持续时间内减少自己受到的伤害，同时将附近队友受到伤害的 50% 转移到自己身上，并消耗怜悯值进行抵扣，怜悯值为不足时将消耗健康值抵扣。&lt;/li&gt;
   &lt;li&gt;伤害转移伤害的比例提升至 100% 。&lt;/li&gt;
-  &lt;li&gt;如果开启友情庇护时自己的怜悯值为充满状态，则消耗20%的怜悯值并获得免疫虚弱的能力。&lt;/li&gt;
+  &lt;li&gt;如果开启友情庇护时自己的怜悯值为充满状态，则消耗 20% 的怜悯值并获得免疫虚弱的能力。&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;怜悯之心&lt;/strong&gt; 被动技能0/0/0&lt;/p&gt;
@@ -570,7 +570,7 @@
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
   &lt;li&gt;技能冷却时间大幅减少。&lt;/li&gt;
-  &lt;li&gt;3张不同颜色的卡牌在命中目标后，将给与魔术师自身额外的效果。
+  &lt;li&gt;3 张不同颜色的卡牌在命中目标后，将给与魔术师自身额外的效果。
     &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;蓝色卡牌：大幅度增加魔术师的移动速度和跳跃高度，持续 3 秒。
 红色卡牌： 5 秒内持续恢复魔术师健康值。
 黄色卡牌：使魔术师获得 5 秒的隐身效果。
@@ -708,7 +708,7 @@
 &lt;ul&gt;
   &lt;li&gt;蒙金奇向前快速行军，期间获得霸体和减伤，可以推开敌人、夹子、碎片等，对接触的敌人造成伤害并击退。施放时可以消耗 60 点士气值造成更多伤害和更强的效果并击落猫咪手中的老鼠。驾驶战车时也可以施放。&lt;/li&gt;
   &lt;li&gt;冷却时间降低。&lt;/li&gt;
-  &lt;li&gt;使用后，5秒内可以再次使用一次。&lt;/li&gt;
+  &lt;li&gt;使用后，5 秒内可以再次使用一次。&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;我，既是军团&lt;/strong&gt; 被动技能 0/0/0&lt;/p&gt;
@@ -774,7 +774,7 @@
 2 星：对碰触的友方短时获得二段跳，对碰触的敌方减少健康值和移动速度。
 4 星：对碰触的友方缓慢恢复健康值并解除受伤状态，对碰触的敌方减少健康值和移动速度。
 6 星：对碰触的友方使其变成小星星，解除并免疫眩晕和虚弱效果，可释放星星滚滚，向前翻滚一段距离，对碰触的敌方减少健康值和移动速度。
-8星：对碰触的敌方猫变成大星星，使其无法通过空间较小的地方，变身后可进行近身攻击和远程吐星星攻击。
+8 星：对碰触的敌方猫变成大星星，使其无法通过空间较小的地方，变身后可进行近身攻击和远程吐星星攻击。
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
   &lt;li&gt;大幅减少冷却时间。&lt;/li&gt;
