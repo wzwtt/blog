@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://wzwtt.cf/blog
+url: https://blog.wzwtt.cf
 date_format: "ordinal"
 title: 小章鱼的博客
 subtitle: "小章鱼的博客"
